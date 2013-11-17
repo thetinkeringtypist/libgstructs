@@ -1,4 +1,4 @@
-libdstructs
+libgstructs
 ===========
 
 Simple ANSI C Graph Structures Library. This is generic graph structures
